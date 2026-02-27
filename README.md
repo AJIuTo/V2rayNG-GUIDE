@@ -6,28 +6,28 @@
 
 Вот последовательность изображений, иллюстрирующих настройку:
 
-![Фото 1](photos/photo_1_y.jpg)
+![Фото 1](images/photo_1_y.jpg)
 *Подпись к фото 1 (по желанию)*
 
-![Фото 2](photos/photo_2_y.jpg)
+![Фото 2](images/photo_2_y.jpg)
 *Подпись к фото 2*
 
-![Фото 3](photos/photo_3_y.jpg)
+![Фото 3](images/photo_3_y.jpg)
 *Подпись к фото 3*
 
-![Фото 4](photos/photo_4_y.jpg)
+![Фото 4](images/photo_4_y.jpg)
 *Подпись к фото 4*
 
-![Фото 5](photos/photo_5_y.jpg)
+![Фото 5](images/photo_5_y.jpg)
 *Подпись к фото 5*
 
-![Фото 6](photos/photo_6_y.jpg)
+![Фото 6](images/photo_6_y.jpg)
 *Подпись к фото 6*
 
-![Фото 7](photos/photo_7_y.jpg)
+![Фото 7](images/photo_7_y.jpg)
 *Подпись к фото 7*
 
-![Фото 8](photos/photo_8_y.jpg)
+![Фото 8](images/photo_8_y.jpg)
 *Подпись к фото 8*
 
 ## Дополнительная информация
